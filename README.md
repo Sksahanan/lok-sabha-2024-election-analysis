@@ -13,15 +13,10 @@ It explores **state & constituency patterns**, **party performance**, **politici
 - `reports/election Decoding the 2024 Lok Sabha Elections.pdf`  
   Analytical report summarizing key findings and visuals from the project.
 
-- `data/` *(to be created by you)*  
+- `data/`   
   - `raw/` – Original datasets (constituency-wise, candidate-wise, party-wise election data).  
   - `processed/` – Cleaned and feature-engineered datasets used for modelling.
 
-- `README.md`  
-  Project documentation (this file).
-
-- `requirements.txt` *(optional but recommended)*  
-  Python package dependencies for reproducibility.
 
 ---
 
